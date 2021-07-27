@@ -17,9 +17,9 @@ Increase in the alcohol content of the mixture increase the quality of bread as 
 
 Similarily, an increase in the sulphates content of the mixture increase the quality of bread as seen in the figure below:
 
-![](https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/SvQ.PNG)
+<img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/SvQ.PNG" width="400"/>
 
 However, an increase in the volatile acidity of the mixture decreased the quality of bread as seen in the figure below:
 
-![](https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/VvQ.PNG)
+<img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/VvQ.PNG" width="400"/>)
 
