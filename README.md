@@ -13,4 +13,4 @@ The top three factors are:-
 
 Increase in the alcohol content in the mixture increase the quality of bread as seen in the figure below:
 
-[Visual object detection](https://github.com/Praj390/Machine_Learning_Deep_Learning/tree/master/FInd_phone)
+![](https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/AvQ.PNG)
