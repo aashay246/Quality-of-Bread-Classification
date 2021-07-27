@@ -6,6 +6,9 @@ Our quality of bread dataset consisted of 12 variables including dependent varia
 ### Step 1
 
 Identified the top three parameters in correlation with the quality of bread using correlation matrix. 
+
+<img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/.PNG" width="400"/>
+
 The top three factors are:-
 1. Alcohol Content
 2. Sulphates Content
