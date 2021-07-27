@@ -11,15 +11,17 @@ The top three factors are:-
 2. Sulphates Content
 3. Volatile Acidity 
 
-Increase in the alcohol content of the mixture increase the quality of bread as seen in the figure below:
+For better visualization of the relation between the three predictors and the quality of bread, we used box plot approach as all variables are continuous variables.
+
+1. Increase in the alcohol content of the mixture increase the quality of bread as seen in the figure below:
 
 <img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/AvQ.PNG" width="400"/>
 
-Similarily, an increase in the sulphates content of the mixture increase the quality of bread as seen in the figure below:
+2. Similarily, an increase in the sulphates content of the mixture increase the quality of bread as seen in the figure below:
 
 <img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/SvQ.PNG" width="400"/>
 
-However, an increase in the volatile acidity of the mixture decreased the quality of bread as seen in the figure below:
+3. However, an increase in the volatile acidity of the mixture decreased the quality of bread as seen in the figure below:
 
 <img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/VvQ.PNG" width="400"/>)
 
