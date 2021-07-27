@@ -13,7 +13,7 @@ The top three factors are:-
 
 Increase in the alcohol content of the mixture increase the quality of bread as seen in the figure below:
 
-![](https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/AvQ.PNG)
+<img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/AvQ.PNG" width="400"/>
 
 Similarily, an increase in the sulphates content of the mixture increase the quality of bread as seen in the figure below:
 
