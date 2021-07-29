@@ -37,5 +37,5 @@ Since the p-value for three selected variables were less than 0.05 we utilized M
 
 The selected vairables were then transformed to a range between 0 and 1 using MinMax Scaler. This techniques maintains the shape of the distribution. 
 
-<img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/Min_Max_Scaler.PNG" width="600"/>
+<img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/Min_Max_Scaler.PNG" width="800"/>
 
