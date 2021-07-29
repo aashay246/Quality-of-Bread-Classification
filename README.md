@@ -39,3 +39,5 @@ The selected vairables were then transformed to a range between 0 and 1 using Mi
 
 <img src="https://github.com/aashay246/Quality-of-Bread-Classification/blob/main/Min_Max_Scaler.PNG" width="800"/>
 
+
+
